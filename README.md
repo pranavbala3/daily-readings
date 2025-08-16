@@ -18,4 +18,8 @@ Tracking my progress of reading at least 1 AI-related research paper daily.
 | 2025-02-12 | *A Mathematical Framework for Transformer Circuits* | [Read Here](https://transformer-circuits.pub/2021/framework/index.html) |
 | 2025-02-12 | *ICLR: In-Context Learning of Representations* | [Read Here](https://arxiv.org/pdf/2501.00070) |
 | 2025-02-13 | *Towards Understanding Jailbreak Attacks in LLMs: A Representation Space Analysis* | [Read Here](https://aclanthology.org/2024.emnlp-main.401.pdf) |
+| 2025-02-14 | *Refusal in Language Models Is Mediated by a Single Direction* | [Read Here](https://arxiv.org/pdf/2406.11717) |
+| 2025-08-14 | *CollabLLM: From Passive Responders to Active Collaborators* | [Read Here](https://arxiv.org/pdf/2502.00640) |
+| 2025-08-15 | *Byte Latent Transformer: Patches Scale Better Than Tokens* | [Read Here](https://arxiv.org/pdf/2412.09871) |
+
 
