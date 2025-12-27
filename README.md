@@ -22,4 +22,4 @@ Tracking my progress of reading at least 1 AI-related research paper daily.
 | 2025-08-14 | *CollabLLM: From Passive Responders to Active Collaborators* | [Read Here](https://arxiv.org/pdf/2502.00640) |
 | 2025-08-15 | *Byte Latent Transformer: Patches Scale Better Than Tokens* | [Read Here](https://arxiv.org/pdf/2412.09871) |
 | 2025-10-31| *DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning* | [Read Here](https://arxiv.org/pdf/2501.12948) |
-
+| 2025-12-26| *Fast Inference from Transformers via Speculative Decoding* | [Read Here](https://arxiv.org/pdf/2211.17192) |
