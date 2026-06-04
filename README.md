@@ -24,3 +24,4 @@ Tracking my progress of reading at least 1 AI-related research paper daily.
 | 2025-10-31| *DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning* | [Read Here](https://arxiv.org/pdf/2501.12948) |
 | 2025-12-26| *Fast Inference from Transformers via Speculative Decoding* | [Read Here](https://arxiv.org/pdf/2211.17192) |
 | 2026-05-31| *Model Organisms for Emergent Misalignment* | [Read Here](https://arxiv.org/pdf/2506.11613) |
+| 2026-06-02| *Measuring AI Ability to Complete Long Software Tasks* | [Read Here](https://arxiv.org/pdf/2503.14499) |
