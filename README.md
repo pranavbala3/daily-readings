@@ -25,3 +25,4 @@ Tracking my progress of reading at least 1 AI-related research paper daily.
 | 2025-12-26| *Fast Inference from Transformers via Speculative Decoding* | [Read Here](https://arxiv.org/pdf/2211.17192) |
 | 2026-05-31| *Model Organisms for Emergent Misalignment* | [Read Here](https://arxiv.org/pdf/2506.11613) |
 | 2026-06-02| *Measuring AI Ability to Complete Long Software Tasks* | [Read Here](https://arxiv.org/pdf/2503.14499) |
+| 2026-06-15| *Mem0: Building Production -Ready AI Agents with Scalable Long-Term Memory* | [Read Here](https://arxiv.org/pdf/2504.19413) |
